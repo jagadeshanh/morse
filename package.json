@@ -1,0 +1,29 @@
+{
+  "name": "morse-code-encoder-and-decoder",
+  "version": "1.0.0",
+  "description": "Morse code encoder and decoder",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagadeshanh/morse.git"
+  },
+  "keywords": [
+    "morse",
+    "encoder",
+    "decoder",
+    "morse code encoder",
+    "morse code decoder"
+  ],
+  "author": {
+    "name": "Jagadesha NH",
+    "email": "jagadeshanh@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jagadeshanh/morse/issues"
+  },
+  "homepage": "https://github.com/jagadeshanh/morse#readme"
+}
