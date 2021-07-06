@@ -1,6 +1,6 @@
 {
   "name": "morse-code-encoder-and-decoder",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Morse code encoder and decoder",
   "main": "src/index.js",
   "scripts": {
